@@ -1,0 +1,58 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,12,123,1) 27%, rgba(9,9,121,1) 97%, rgba(32,85,96,1) 100%);
+}
+
+.navbar{
+    padding: 3rem 4rem;
+    color: #DDDDDD;
+}
+
+.nav-link{
+    margin-left: 2rem;
+    color: #DDDDDD;
+    font-weight: 300;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    color: #DDDDDD;
+    font-weight: 900;
+}
+
+#title{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,12,123,1) 27%, rgba(9,9,121,1) 97%, rgba(32,85,96,1) 100%);
+    text-align: center;
+    height: 100%;
+}
+h1{
+    color: #DDDDDD;
+    padding: 4rem 0 4rem 0;
+    font-size: 4rem;
+    font-weight: bold;
+    word-spacing: 1rem;
+}
+
+h3{
+    color: #DDDDDD;
+    font-size: 2rem;
+    padding: 2rem;
+}
+
+.btn{
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+.extra{
+    height: 6.5rem;
+}
+
+#res1{
+    color: #B4E197;
+}
+
+#res2{
+    color: #FF6363;
+}
