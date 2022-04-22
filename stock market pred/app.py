@@ -28,7 +28,7 @@ def predict():
         if pred[0] == 1:
             return jsonify({'data':'Up','d':1,'date' : date})
         else:
-            return jsonify({'data':'Down','d':0})
+            return jsonify({'data':'Down','d':0,'date' : date})
     except:
         return jsonify({'data':'error'})
 
