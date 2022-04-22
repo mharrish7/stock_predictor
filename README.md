@@ -17,6 +17,8 @@
 <img src = 'https://github.com/mharrish7/stock_predictor/blob/main/stock%20market%20pred/screenshots/1.png?raw=true' />
 <img src = 'https://github.com/mharrish7/stock_predictor/blob/main/stock%20market%20pred/screenshots/2.png?raw=true' />
 
+<img src = 'https://github.com/mharrish7/stock_predictor/blob/main/stock%20market%20pred/screenshots/3.png?raw=true' />
+
 
 
 
